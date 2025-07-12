@@ -1,0 +1,2201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6739435,
+          12.3157762
+        ]
+      },
+      "properties": {
+        "name": "Bangalore Booking Centre",
+        "cityLabel": "Bangalore",
+        "address": "#4, 3rd Cross, Mysore Main Road, Old Tollgate, Mysore Road - 560 026",
+        "contact": "Mr. Adil",
+        "phone": "(080) 222 29802 63669 59467 / 97428 04808",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5761933,
+          12.9583764
+        ]
+      },
+      "properties": {
+        "name": "Kalasipalyam Booking Centre",
+        "cityLabel": "Kalasipalyam",
+        "address": "#27, Dispensary Road, Next to Hotel City Tower, Kalasipalyam, Bengaluru - 560 002",
+        "contact": "Mr. Atiq",
+        "phone": " 96861 30737",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2450385,
+          13.2237756
+        ]
+      },
+      "properties": {
+        "name": "Kuluvanahalli Booking Centre",
+        "cityLabel": "Kuluvanahalli",
+        "address": "S.No 11/1A, NH-4, Mumbai Highway, Kuluvanahalli, 562127",
+        "contact": "Mr. Maqtum",
+        "phone": "99000 82817",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4359844,
+          13.0757625
+        ]
+      },
+      "properties": {
+        "name": "Makali Booking Centre",
+        "cityLabel": "Makali",
+        "address": "#S. No. 72, Dasanapura Village, Dasanapura Hobli, Nelemangala Taluk, Bengaluru - 562 162",
+        "contact": "Mr. Wahid",
+        "phone": "96861 30737",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1351592,
+          28.8173215
+        ]
+      },
+      "properties": {
+        "name": "Bakoli Booking Centre",
+        "cityLabel": "Bakoli",
+        "address": "Khasra No. 78, Plot No. 217-220, Near Palm Green Resort, Village Bakoli, 110036",
+        "contact": "Mr. Abdul / Mr. Satywan",
+        "phone": "98912 40687 / 93110 50405 89291 73737 / 38 / 39 / 40",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0495558,
+          28.7708594
+        ]
+      },
+      "properties": {
+        "name": "Bawana Booking Centre",
+        "cityLabel": "Bawana",
+        "address": "154/47, Opp. Maharshi Balmiki Hospital, Pooth Khurd, Bawana, Delhi - 110 039.",
+        "contact": "Mr. Kapil",
+        "phone": "95823 67621 / 93101 59547 88600 00288 / 93103 59547",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1749167,
+          28.6689172
+        ]
+      },
+      "properties": {
+        "name": "Daya Basti Booking Centre",
+        "cityLabel": "Daya Basti",
+        "address": "19/302, Basti Sarai Rohila, Near Dr. Rajiv Pradhan Wali Gali, Daya Basti, Delhi - 110 035.",
+        "contact": "Mr. Nitin Katyal",
+        "phone": "93129 61430 / 93113 63379 85859 45503 / 96255 25163",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.225853,
+          28.66288
+        ]
+      },
+      "properties": {
+        "name": "Hamilton Road Booking Centre",
+        "cityLabel": "Hamilton Road",
+        "address": "607/2, Hamilton Road, Kashmere Gate, Delhi - 110 006.",
+        "contact": "Mr. Anil Kumar Sharma",
+        "phone": "(011) 4560 3755 92669 51239",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2385915,
+          28.6612111
+        ]
+      },
+      "properties": {
+        "name": "Jamuna Bazaar Booking Centre",
+        "cityLabel": "Jamuna Bazaar",
+        "address": "1859, Jat Fauji Dharamshalla, Jamuna Bazaar, Delhi - 110 006",
+        "contact": "Mr. Azizuddin",
+        "phone": "98714 17380",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2584561,
+          28.664873
+        ]
+      },
+      "properties": {
+        "name": "Kailash Nagar Booking Centre",
+        "cityLabel": "Kailash Nagar",
+        "address": "9/101, Shyam Block, Kailash Nagar, Delhi - 110 031",
+        "contact": "Mr. Ravinder Kumar",
+        "phone": "93119 85086 98109 85086",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.224295,
+          28.645047
+        ]
+      },
+      "properties": {
+        "name": "Kamla Market Booking Centre",
+        "cityLabel": "Kamla Market",
+        "address": "266, Asaf Ali Rd, Kamla Market, New Delhi - 110 002.",
+        "contact": "Mr. Raman Bhasin",
+        "phone": "(011) 4780 7705 98997 79389 / 98717 23867",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.200753,
+          28.650862
+        ]
+      },
+      "properties": {
+        "name": "Karol Bagh Booking Centre",
+        "cityLabel": "Karol Bagh",
+        "address": "T-446, Faiz Road, Near Gurudwara, Karol Bagh, New Delhi - 110 005",
+        "contact": "Mr. Manzoor Ali",
+        "phone": "(011) 6596 9222 / 84476 41953 88607 71558 / 99106 24719",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2250449,
+          28.665197
+        ]
+      },
+      "properties": {
+        "name": "Kashmiri Gate Booking Centre",
+        "cityLabel": "Kashmiri Gate",
+        "address": "33, Balaji Mkt., Sultan Singh Bldg., Behind CBI, Kashmiri Gate, Delhi - 110 006",
+        "contact": "Mr. Rohit Sharma",
+        "phone": "(011) 4298 8110 84479 47160",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1464142,
+          28.7550902
+        ]
+      },
+      "properties": {
+        "name": "Libaspur Booking Centre",
+        "cityLabel": "Libaspur",
+        "address": "03, Plot No.8, Khasra No. 30/5, 66 Ft. Rd, Libaspur, Opp. Sarvodaya Vidyalaya Delhi - 110 042",
+        "contact": "Mr. Nitesh Maan",
+        "phone": "80104 10716 93159 30742",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0605728,
+          28.6820804
+        ]
+      },
+      "properties": {
+        "name": "Mangol Puri Booking Centre",
+        "cityLabel": "Mangol Puri",
+        "address": "C-1, Oil Mkt. Phase-I, Indl. Area, Mangol Puri, Nangloi No. 4, Delhi - 110 083",
+        "contact": "Mr. Sorabh",
+        "phone": "98730 45456",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1131167,
+          28.6138134
+        ]
+      },
+      "properties": {
+        "name": "Mayapuri Booking Centre",
+        "cityLabel": "Mayapuri",
+        "address": "D-197, Mayapuri Phase - II, New Delhi - 110 064",
+        "contact": "Mr. Sanjeev Kumar",
+        "phone": "93103 48176 93119 81008",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0262817,
+          28.6802756
+        ]
+      },
+      "properties": {
+        "name": "Mundka Booking Centre",
+        "cityLabel": "Mundka",
+        "address": "Plot No. 1719, Guga Park, Firni Road, Opp. Metro Pillar No. 548, Mundka, Delhi - 110 041",
+        "contact": "Mr. Dayanand Nande",
+        "phone": "92129 82319 99537 09078",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1364914,
+          28.6186727
+        ]
+      },
+      "properties": {
+        "name": "Naraina Booking Centre",
+        "cityLabel": "Naraina",
+        "address": "CB-374/2, Indra Market, Ring Road, Naraina, New Delhi - 110 028",
+        "contact": "Mr. Rahul Singhal",
+        "phone": "98996 67536",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.089722,
+          28.8454704
+        ]
+      },
+      "properties": {
+        "name": "Narela Booking Centre",
+        "cityLabel": "Narela",
+        "address": "Plot No.1, Pocket - 8, B-4, Punjabi Colony, Narela, Delhi - 110 040",
+        "contact": "Mr. Kapil",
+        "phone": "95823 67621 88600 00288",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2131965,
+          28.6593094
+        ]
+      },
+      "properties": {
+        "name": "Sadar Bazar Booking Centre",
+        "cityLabel": "Sadar Bazar",
+        "address": "4911, Phoota Road, Nr. Westend Cinema, Sadar Bazar, Delhi - 110 006",
+        "contact": "Mr. Amit Gupta",
+        "phone": "(011) 2352 6460 / 4359 4721 98118 07974",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2993879,
+          28.6674118
+        ]
+      },
+      "properties": {
+        "name": "Shahadara Booking Centre",
+        "cityLabel": "Shahadara",
+        "address": "624/6A, Vishwas Nagar, Nr. Patel Galli, Shahadara, Delhi-110 032.",
+        "contact": "Mr. M. K. Sharma",
+        "phone": "79827 92525 98104 83191, 99109 63191",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0853638,
+          28.6702953
+        ]
+      },
+      "properties": {
+        "name": "Tikri Kala Booking Centre",
+        "cityLabel": "Tikri Kala",
+        "address": "Khasra No. 39/12, Nr. Sai Baba Mandir, Metro Pillar No. 696, Tikri Kala, Delhi - 110041",
+        "contact": "Mr. Dayanand Nande",
+        "phone": "92129 82319 99537 09078",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1643337,
+          28.6999815
+        ]
+      },
+      "properties": {
+        "name": "Wazirpur Booking Centre",
+        "cityLabel": "Wazirpur",
+        "address": "B-23, Wazirpur Industrial Area, Near Raja Park, Wazirpur, Delhi - 110 052.",
+        "contact": "Mr. Sanjeev Kumar",
+        "phone": "(011) 4328 1008 93119 81008 / 93115 48176",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3109537,
+          28.4124596
+        ]
+      },
+      "properties": {
+        "name": "Faridabad Booking Centre",
+        "cityLabel": "Faridabad",
+        "address": "18/5, Metro Pillar No. 812, Mathura Road, Faridabad - 121 001.",
+        "contact": "Mr. Mukesh Kumar",
+        "phone": "92121 15393 85276 31778",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9859239,
+          28.4575406
+        ]
+      },
+      "properties": {
+        "name": "Gurgaon  Booking Centre",
+        "cityLabel": "Gurgaon ",
+        "address": "Plot No. 413, basai Road, Near N. K. Factory, 122001",
+        "contact": "Mr. Ravi Singh",
+        "phone": "98998 86629 70114 35770 / 9318 468041",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3022052,
+          30.1641919
+        ]
+      },
+      "properties": {
+        "name": "Jagadhri Booking Centre",
+        "cityLabel": "Jagadhri",
+        "address": "A-6, Railway Road, Jagadhri : 135 003.",
+        "contact": "Mr. Parampal Singh",
+        "phone": "99916 00054 98175 07213",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9972532,
+          29.6716753
+        ]
+      },
+      "properties": {
+        "name": "Karnal Booking Centre",
+        "cityLabel": "Karnal",
+        "address": "Laxmi Transport, Nr. Shiv Filling Stn, G. T. Road, Karnal - 132 001",
+        "contact": "Mr. J. S. Rawat",
+        "phone": "92155 71056 90504 02640",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1230221,
+          28.874324
+        ]
+      },
+      "properties": {
+        "name": "Kundli Booking Centre",
+        "cityLabel": "Kundli",
+        "address": "Mahadev Market, Gali No.5, Jati Road, Kundli, Haryana - 131028.",
+        "contact": "Mr. Kapil",
+        "phone": "95823 67621 88600 00288",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9541601,
+          29.3823521
+        ]
+      },
+      "properties": {
+        "name": "Panipat Booking Centre",
+        "cityLabel": "Panipat",
+        "address": "32-A, Swawan Park, Near New Model Town, Panipat - 132 103.",
+        "contact": "Mr. Amit Kumar",
+        "phone": "81683 64732 98133 60471",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5491167,
+          28.9034385
+        ]
+      },
+      "properties": {
+        "name": "Rohtak Booking Centre",
+        "cityLabel": "Rohtak",
+        "address": "Main Hissar Road, opps. LPS, Ward No.2, Shastri Nagar, Rohtak - 124001",
+        "contact": "Mr. Satish Kumar",
+        "phone": "98138 01303 98137 76670",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2455699,
+          25.8302463
+        ]
+      },
+      "properties": {
+        "name": "Balotra Booking Centre",
+        "cityLabel": "Balotra",
+        "address": "C/o. The United Road Carriers, 21-D, Transport Nagar, Balotra - 344 022",
+        "contact": "Mr. Sanjay",
+        "phone": "93519 44751 93528 68751",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6207288,
+          25.3258625
+        ]
+      },
+      "properties": {
+        "name": "Bhilwara Booking Centre",
+        "cityLabel": "Bhilwara",
+        "address": "Door No. 93, Transport Nagar, Bhilwara - 311 001",
+        "contact": "Mr. Bhanwar Singh",
+        "phone": "7023294608 7737806320",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0098699,
+          26.2358509
+        ]
+      },
+      "properties": {
+        "name": "Jodhpur Booking Centre",
+        "cityLabel": "Jodhpur",
+        "address": "C/o. Aman Roadlines, 56, Transport Nagar, Jodhpur - 342 001",
+        "contact": "Mr. Aman",
+        "phone": "94607 04454",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3627645,
+          25.78677
+        ]
+      },
+      "properties": {
+        "name": "Pali Booking Centre",
+        "cityLabel": "Pali",
+        "address": "B-57, Transport Nagar , Pali - 306 401",
+        "contact": "Mr. Ratan Singh",
+        "phone": "93143 41843 80786 90108",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5447741,
+          26.8205657
+        ]
+      },
+      "properties": {
+        "name": "Jaipur (Bagru) Booking Centre",
+        "cityLabel": "Jaipur (Bagru)",
+        "address": "C-4, Dhamikala Balaji mandir, RIICO Industrial Area, Bagru, Jairpur - 303 007",
+        "contact": "Mr. Nitesh",
+        "phone": "72970 14402 85600 88127",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7790146,
+          26.8220438
+        ]
+      },
+      "properties": {
+        "name": "Jaipur (Sanganer) Booking Centre",
+        "cityLabel": "Jaipur (Sanganer)",
+        "address": "Plot No.11, Ramdawara Colony, Sanganer - 302 029.",
+        "contact": "Mr. Mahipal",
+        "phone": "94687 27314 96807 77444",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.804638,
+          26.9219198
+        ]
+      },
+      "properties": {
+        "name": "Jaipur (SC Road) Booking Centre",
+        "cityLabel": "Jaipur (SC Road)",
+        "address": "#210, Jalupura, Sansar Chandra Road, Jaipur - 302 001",
+        "contact": "Mr. Hritik",
+        "phone": "94140 71798",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7961032,
+          27.0007
+        ]
+      },
+      "properties": {
+        "name": "Jaipur (VKI) Booking Centre",
+        "cityLabel": "Jaipur (VKI)",
+        "address": "Plot No. 163-164, Karni Vihar Road No.17, V.K.I Area, Jaipur - 302 013",
+        "contact": "Mr. Hritik",
+        "phone": "94140 71798",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.712479,
+          24.585445
+        ]
+      },
+      "properties": {
+        "name": "Udaipur (MIA Road) Booking Centre",
+        "cityLabel": "Udaipur (MIA Road)",
+        "address": "E-94 A. MIA Road No.1 Behind Autokam Honda, Udaipur - 313 003.",
+        "contact": "Mr. Sachin",
+        "phone": "80944 23332",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7074685,
+          24.5600656
+        ]
+      },
+      "properties": {
+        "name": "Udaipur (Subcity Center) Booking Centre",
+        "cityLabel": "Udaipur (Subcity Center)",
+        "address": "D-140, Subcity Center, Udaipur - 313 001",
+        "contact": "Mr. Sachin",
+        "phone": "80944 23332",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6950546,
+          24.5853435
+        ]
+      },
+      "properties": {
+        "name": "Udaipur (Town Hall Road) Booking Centre",
+        "cityLabel": "Udaipur (Town Hall Road)",
+        "address": "O/S Delhi Gate, Town Hall Road, Udaipur - 313 003",
+        "contact": "Mr. Sachin",
+        "phone": "80944 23332",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8672702,
+          22.7075807
+        ]
+      },
+      "properties": {
+        "name": "Indore Booking Centre",
+        "cityLabel": "Indore",
+        "address": "C/o- OK Express, 36 T.S. Navlakha Road, Opp. Hari Toll Kanta, Loha Mandi, Indore - 452 001",
+        "contact": "Mr. Amin Amdani",
+        "phone": "78282 20003 97542 77555 / 98066 55196",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0094169,
+          27.1846509
+        ]
+      },
+      "properties": {
+        "name": "Agra Booking Centre",
+        "cityLabel": "Agra",
+        "address": "7/119, Tila Joshian, Moti Katra Road, Agra - 282 003",
+        "contact": "Mr. Amit Arora",
+        "phone": "99978 75212",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0745654,
+          27.886956
+        ]
+      },
+      "properties": {
+        "name": "Aligarh - Shah Kamal Rd. Booking Centre",
+        "cityLabel": "Aligarh - Shah Kamal Rd.",
+        "address": "13/9, Shah Kamal Road, Aligarh - 202 001",
+        "contact": "Mr. Nayeem Ghafoor",
+        "phone": "80777 50891 70376 38342",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1364889,
+          27.9333588
+        ]
+      },
+      "properties": {
+        "name": "Aligarh - Tala Nagri Booking Centre",
+        "cityLabel": "Aligarh - Tala Nagri",
+        "address": "D-95, Sector - I, Nr. Mitra Mandal Kanta, Tala Nagri, Aligarh - 202 001.",
+        "contact": "Mr. Karan Sachdeva",
+        "phone": "70176 61799 72520 98000",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.423072,
+          28.6693454
+        ]
+      },
+      "properties": {
+        "name": "Ghaziabad Booking Centre",
+        "cityLabel": "Ghaziabad",
+        "address": "367, Mukund Nagar, Ghaziabad - 201 001",
+        "contact": "Mr. Anil Kumar",
+        "phone": "93507 36673 73033 03673",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6655103,
+          27.5168592
+        ]
+      },
+      "properties": {
+        "name": "Mathura Booking Centre",
+        "cityLabel": "Mathura",
+        "address": "Opp. Kalyan Karoti Hospital, Saraswati Kund, Mathura - 281 003",
+        "contact": "Mr. Sant Kumar",
+        "phone": "96349 58335 63992 92922",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7064137,
+          28.9844618
+        ]
+      },
+      "properties": {
+        "name": "Meerut Booking Centre",
+        "cityLabel": "Meerut",
+        "address": "143-B, Transport Nagar, Opp. Bharat Petrolium, Meerut - 250 002",
+        "contact": "Mr. Neeraj Sharma",
+        "phone": "(0121) 432 2042 99979 08362 / 93196 27361",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7840786,
+          28.82541
+        ]
+      },
+      "properties": {
+        "name": "Moradabad Booking Centre",
+        "cityLabel": "Moradabad",
+        "address": "B-816, Near Lajpat Nagar Police Chowki, Moradabad - 244 001",
+        "contact": "Mr. Sayed",
+        "phone": "80773 00486 / 98972 64163",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.720298,
+          28.9790642
+        ]
+      },
+      "properties": {
+        "name": "Suraj Kund Road Booking Centre",
+        "cityLabel": "Suraj Kund Road",
+        "address": "#1, Chandra Bhavan, New Mohanpuri, Suraj Kund Road, Meerut - 250 002",
+        "contact": "Mr. Neeraj Sharma",
+        "phone": "93196 27361",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3911513,
+          28.6108887
+        ]
+      },
+      "properties": {
+        "name": "Noida  Booking Centre",
+        "cityLabel": "Noida ",
+        "address": "A-63, Sector 69, transport Nagar, Noida, 201307",
+        "contact": "Mr. Devendra Nagpal",
+        "phone": "(0120) 636 0060 98103 49196, 97161 05400",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6620343,
+          28.7117381
+        ]
+      },
+      "properties": {
+        "name": "Pilkhuwa Booking Centre",
+        "cityLabel": "Pilkhuwa",
+        "address": "Railway Road, Near Sarvodaya Inter College, Pilkhuwa - 245 304.",
+        "contact": "Mr. Amit Singhal",
+        "phone": "99270 73302 75005 34153, 98370 01943",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3180648,
+          28.6455932
+        ]
+      },
+      "properties": {
+        "name": "UP Border Booking Centre",
+        "cityLabel": "UP Border",
+        "address": "4/1A, Shani Mandir Galli, Sahidabad, Utter Pradesh - 201 006",
+        "contact": "Mr. Sandeep Sharma",
+        "phone": "87006 85035 70118 28004",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8938383,
+          31.622892
+        ]
+      },
+      "properties": {
+        "name": "Amritsar Booking Centre",
+        "cityLabel": "Amritsar",
+        "address": "65, Transport Nagar, Near Pathaka Market, Jahaj Garh, Amritsar - 143 006.",
+        "contact": "Mr. B. S. Pathania",
+        "phone": "93560 37305 95013 87081 89685 37305",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.470407,
+          32.137037
+        ]
+      },
+      "properties": {
+        "name": "Dinanagar Booking Centre",
+        "cityLabel": "Dinanagar",
+        "address": "C/o. Rajan GS Transport Co., Near Bharat Industries Regd., G. T. Road, Dinanagar - 143 531.",
+        "contact": "Mr. Rajan Arya",
+        "phone": "78884 03847 93564 10211",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.751602,
+          31.242452
+        ]
+      },
+      "properties": {
+        "name": "Phagwara Booking Centre",
+        "cityLabel": "Phagwara",
+        "address": "Hoshiarpur Road, Valmiki Chowk, Phagwara - 144 401",
+        "contact": "Mr. Sunil Duggal",
+        "phone": "90563 27327 98780 40131",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5752609,
+          31.348622
+        ]
+      },
+      "properties": {
+        "name": "Jalandhar Booking Centre",
+        "cityLabel": "Jalandhar",
+        "address": "S-249, Industrial Area, Near Div-1 Police Station Jalandhar - 144 001",
+        "contact": "Mr. Pradeep, Mr. Pankaj",
+        "phone": "(0181) 508 3565 94639 29990 93572 12071",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.877965,
+          30.905699
+        ]
+      },
+      "properties": {
+        "name": "Ludhiana Booking Centre",
+        "cityLabel": "Ludhiana",
+        "address": "Plot No. 103, Near Sanjeev Dhaba, Transport Nagar, Ludhiana - 141003",
+        "contact": "Mr. Banwari Lal",
+        "phone": "98035 40811 / 83601 03291",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8793348,
+          30.5196218
+        ]
+      },
+      "properties": {
+        "name": "Malerkotla Booking Centre",
+        "cityLabel": "Malerkotla",
+        "address": "C/o. M/s. Pawan Roadlines, Street No.2, Industrial Area, Near Telephone Exchange, Malerkotla - 148 023.",
+        "contact": "Mr. Mohit Kumar Gupta",
+        "phone": "93165 37000 90411 01520",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9112439,
+          22.5638508
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad (Bakrol) Booking Centre",
+        "cityLabel": "Ahmedabad (Bakrol)",
+        "address": "Block No. B/3, Pavan Industrial Estate, Opp. Shreenathji Ind., Bakrol - 382 210.",
+        "contact": "Mr. Pravin",
+        "phone": "91520 01552 91520 01556",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5898657,
+          22.9664711
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad (Narol) Booking Centre",
+        "cityLabel": "Ahmedabad (Narol)",
+        "address": "294, Ramdev Estate, Narol, Ahmedabad - 382 405.",
+        "contact": "Mr. Aziz",
+        "phone": "91520 01552",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5998425,
+          23.023379
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad (Sarangpur) Booking Centre",
+        "cityLabel": "Ahmedabad (Sarangpur)",
+        "address": "Near Rozi Cinema, Sarangpur, Ahmedabad - 380 001",
+        "contact": "Mr. Iqbal",
+        "phone": "91520 01551",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6615488,
+          23.0170301
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad (Odhav) Booking Centre",
+        "cityLabel": "Ahmedabad (Odhav)",
+        "address": "7 Gopal Estate, Opp. Municipal School, Nr. H. H. Roadways, Aadinath, Odhav, Ahmedabad - 382 415",
+        "contact": "Mr. Moin",
+        "phone": "91520 01553",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5938479,
+          22.8876797
+        ]
+      },
+      "properties": {
+        "name": "Jetalpur Booking Centre",
+        "cityLabel": "Jetalpur",
+        "address": "Surve No. 233, Behind Anupam, Weigh Bridge, N.H. No. 8, Jetalpur, Ahmedabad - 382 427",
+        "contact": "Mr. Rehman",
+        "phone": "91520 01555",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4882564,
+          22.9799605
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad (Sarkhej) Booking Centre",
+        "cityLabel": "Ahmedabad (Sarkhej)",
+        "address": "B/74, Sagar Estate, Near Ujala Circle, Sarkhej - 382 210",
+        "contact": "Mr. Aziz",
+        "phone": "91520 01552 84018 31946",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9993721,
+          21.6349562
+        ]
+      },
+      "properties": {
+        "name": "Ankleshwar Booking Centre",
+        "cityLabel": "Ankleshwar",
+        "address": "#2507, GIDC, Opp. Asian Paint Ltd., Gate No.2, Ankleshwar - 393 002",
+        "contact": "Mr. Patel",
+        "phone": "9327501897",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.434366,
+          23.7572074
+        ]
+      },
+      "properties": {
+        "name": "Baroda (Karelibaug) Booking Centre",
+        "cityLabel": "Baroda (Karelibaug)",
+        "address": "SB-7, Karelibaug Industrial Estate, Jalaram Ram Mandir Road, Karelibaug, Baroda - 390 018",
+        "contact": "Mr. Mohd. Hasan Shaikh",
+        "phone": "84600 84395",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1978476,
+          22.2570444
+        ]
+      },
+      "properties": {
+        "name": "Baroda (Makarpura) Booking Centre",
+        "cityLabel": "Baroda (Makarpura)",
+        "address": "Susen-Vadsar Main Road, Opp. Bundy India Limited, Makarpura. Baroda - 390 010",
+        "contact": "Mr. Ramiz",
+        "phone": "99095 69892",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1457235,
+          21.7849993
+        ]
+      },
+      "properties": {
+        "name": "Bhavnagar (Old Bunder) Booking Centre",
+        "cityLabel": "Bhavnagar (Old Bunder)",
+        "address": "Opp. Mehadi Mata Mandir, Old Bunder Road, Bhavnagar - 364 081",
+        "contact": "Mr. Anil",
+        "phone": "78784 81999 93747 41999",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1519304,
+          21.7644725
+        ]
+      },
+      "properties": {
+        "name": "Bhavnagar (Alang) Booking Centre",
+        "cityLabel": "Bhavnagar (Alang)",
+        "address": "Maruti Comlex, Ram Sarovar, Alang, Bhavnagar - 364 081",
+        "contact": "Mr. Anil",
+        "phone": "78784 81999 93747 41999",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.9597023,
+          21.7197378
+        ]
+      },
+      "properties": {
+        "name": "Sihor Booking Centre",
+        "cityLabel": "Sihor",
+        "address": "G.I.D.C. - 2, Plot No. 405/2, Ahmedabad Road, Sihor, Bhavnagar, 364 240",
+        "contact": "Mr. Anil",
+        "phone": "78784 81999 93747 41999",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87482,
+          20.4159305
+        ]
+      },
+      "properties": {
+        "name": "Daman Booking Centre",
+        "cityLabel": "Daman",
+        "address": "Survey No. 747/748, Bajaj Compound, Nr Nandwana Transport, Daman - 396 210",
+        "contact": "Mr. Bhavesh",
+        "phone": "93761 74944 99258 85598",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4414873,
+          23.2840505
+        ]
+      },
+      "properties": {
+        "name": "Gandhinagar (Chatral) Booking Centre",
+        "cityLabel": "Gandhinagar (Chatral)",
+        "address": "B1/S2, D. K. Metro Estate, Behind Milan Weighbridge, Chatral - 382 729",
+        "contact": "Mr. Aziz",
+        "phone": "91520 01552",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0668053,
+          22.4572037
+        ]
+      },
+      "properties": {
+        "name": "Jamnagar (Udyog Nagar) Booking Centre",
+        "cityLabel": "Jamnagar (Udyog Nagar)",
+        "address": "#58, Digvijay Plot, Shankar Tekri, G.I.D.C Jamnagar - 361 004",
+        "contact": "Mr. Pratik",
+        "phone": "(0288) 256 0212 91520 01560 / 98253 07037",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0577572,
+          22.4141562
+        ]
+      },
+      "properties": {
+        "name": "Jamnagar (Dhared) Booking Centre",
+        "cityLabel": "Jamnagar (Dhared)",
+        "address": "Plot No. 137, G.I.D.C., Phase II, Dhared, Jamnagar - 361 004",
+        "contact": "Mr. Nitin",
+        "phone": "91520 01561 80008 10999",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.6179777,
+          21.7546665
+        ]
+      },
+      "properties": {
+        "name": "Jetpur Booking Centre",
+        "cityLabel": "Jetpur",
+        "address": "C/o. AD Roadlines, Rabarika Patiya, Jetpur - 360 370",
+        "contact": "Mr. Yunus",
+        "phone": "96383 21087 85116 51786",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8024953,
+          22.250345
+        ]
+      },
+      "properties": {
+        "name": "Rajkot (Dhebar Road) Booking Centre",
+        "cityLabel": "Rajkot (Dhebar Road)",
+        "address": "80 Feet Road, Virani Aghat, Rajkot - 360 004",
+        "contact": "Mr. Salim",
+        "phone": "91520 01557",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.6725747,
+          22.2391213
+        ]
+      },
+      "properties": {
+        "name": "Rajkot (Metoda) Booking Centre",
+        "cityLabel": "Rajkot (Metoda)",
+        "address": "Metoda G.I.D.C., Gate No.3, Metoda, Rajkot - 360 021.",
+        "contact": "Mr. Imtiyaz",
+        "phone": "94262 24418",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7801497,
+          22.1527504
+        ]
+      },
+      "properties": {
+        "name": "Rajkot (Shapar) Booking Centre",
+        "cityLabel": "Rajkot (Shapar)",
+        "address": "Behind Murlidharway Bridge, NH - 8-B, Shapar, Rajkot - 360 024",
+        "contact": "Mr. Zahid",
+        "phone": "91520 01562",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3052383,
+          21.3376984
+        ]
+      },
+      "properties": {
+        "name": "Savarkundla Booking Centre",
+        "cityLabel": "Savarkundla",
+        "address": "C/o. Jatin Transport, Opp. Bhagwati Cable, Savarkundla - 364 515",
+        "contact": "Mr. Tushar",
+        "phone": "98245 61503 94286 18600",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8975724,
+          21.1899092
+        ]
+      },
+      "properties": {
+        "name": "Surat (Saroli) Booking Centre",
+        "cityLabel": "Surat (Saroli)",
+        "address": "Ambika Transport Nagar - 2, Godown No 24, Kumbhariya Gam, Surat -395 010",
+        "contact": "Mr. Yusuf",
+        "phone": "93766 20417",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.919482,
+          20.368191
+        ]
+      },
+      "properties": {
+        "name": "Vapi Booking Centre",
+        "cityLabel": "Vapi",
+        "address": "#270, LIC Sector, Opp. Nathani Paper Mills, 2nd Phase, GIDC, Vapi - 396 195",
+        "contact": "Mr. Shafi Patni",
+        "phone": "96083 97083 98981 17710",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0445143,
+          19.2537251
+        ]
+      },
+      "properties": {
+        "name": "Bhiwandi Booking Centre",
+        "cityLabel": "Bhiwandi",
+        "address": "#37 to 41, Building “B”,Suvidhinath Complex, Dapode, Bhiwandi - 421 302.",
+        "contact": "Mr. Mehtab",
+        "phone": "77386 25103 93247 25103",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.837564,
+          18.9576674
+        ]
+      },
+      "properties": {
+        "name": "Chinch Bunder Booking Centre",
+        "cityLabel": "Chinch Bunder",
+        "address": "Economic House, 1st Flank Rd., Chinch Bunder, Mumbai - 400 009",
+        "contact": "Mr. Asgar",
+        "phone": "80823 69464",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8189028,
+          18.9600029
+        ]
+      },
+      "properties": {
+        "name": "Opera House Booking Centre",
+        "cityLabel": "Opera House",
+        "address": "8/A, Mistry Bldg.,10-Padamji Road, Opera House, Mumbai - 400 007.",
+        "contact": "Mr. Ajit",
+        "phone": "(022) 2388 1135 70455 74447",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8882008,
+          19.101027
+        ]
+      },
+      "properties": {
+        "name": "Sakinaka Booking Centre",
+        "cityLabel": "Sakinaka",
+        "address": "2 & 3, Satya Nagar, Opp. Tohfa Hotel, 90 Feet Road, Sakinaka, Andheri (E), Mumbai - 400 072",
+        "contact": "Mr. Pramod",
+        "phone": "70459 06571",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8775401,
+          19.4044669
+        ]
+      },
+      "properties": {
+        "name": "Vasai (E) Booking Centre",
+        "cityLabel": "Vasai (E)",
+        "address": "B-1, Prasad Ind. Estate, Opp. Gaodevi Mandir, Sativali, Vasai (E), Palghar - 401 208",
+        "contact": "Mr. Adhik",
+        "phone": "98927 84967",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0049755,
+          19.0772788
+        ]
+      },
+      "properties": {
+        "name": "Vashi Booking Centre",
+        "cityLabel": "Vashi",
+        "address": "34, Truck Terminal, Sector 19, Opp. Sandeep Hotel, Vashi, Navi Mumbai - 400 705",
+        "contact": "Mr. Sachin",
+        "phone": "98209 81090",
+        "color": "#FFA500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6739435,
+          12.3157762
+        ]
+      },
+      "properties": {
+        "name": "Bangalore Delivery Centre",
+        "cityLabel": "Bangalore",
+        "address": "#4, 3rd Cross, Mysore Main Road, Old Tollgate, Mysore Road - 560 026",
+        "contact": "Mr. Adil",
+        "phone": "(080) 2222 9802 63669 59467 / 97428 04808",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1430411,
+          13.1160214
+        ]
+      },
+      "properties": {
+        "name": "Kolar Delivery Centre",
+        "cityLabel": "Kolar",
+        "address": "Beside Indian Public School, KGF-Bangarpet Main Road, Kogilahalli (vil) Kolar, Pin - 563 101",
+        "contact": "Mr. Rajinikanth",
+        "phone": "99450 71530",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8934325,
+          12.5300701
+        ]
+      },
+      "properties": {
+        "name": "Mandya Delivery Centre",
+        "cityLabel": "Mandya",
+        "address": "SM 52, 1st Stage, KSSIDC, Industrial Estate, M. C. Road, Mandya - 571 401",
+        "contact": "",
+        "phone": "99866 65157 95380 81416",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6472388,
+          12.321893
+        ]
+      },
+      "properties": {
+        "name": "Mysore Delivery Centre",
+        "cityLabel": "Mysore",
+        "address": "#66, New Santhepet Road, M.D.C.C.W Stores Compound, Bamboo Bazaar, Mysore - 570 021",
+        "contact": "",
+        "phone": "98864 77777",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2753061,
+          13.0983404
+        ]
+      },
+      "properties": {
+        "name": "Chennai Delivery Centre",
+        "cityLabel": "Chennai",
+        "address": "No.34/35, Walltax Road, Kondithope, Chennai - 600 079.",
+        "contact": "Mr. Abdul Hakeem",
+        "phone": "(044) 2529 2723 2529 2733",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.954998,
+          10.995148
+        ]
+      },
+      "properties": {
+        "name": "Coimbatore Delivery Centre",
+        "cityLabel": "Coimbatore",
+        "address": "45/5, Veeraswamy School Street, Coimbatore - 641 001.",
+        "contact": "Mr. Mahendran",
+        "phone": "(0422) 230 6687 94421 21693 / 99522 98881",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7171642,
+          11.3410364
+        ]
+      },
+      "properties": {
+        "name": "Erode Delivery Centre",
+        "cityLabel": "Erode",
+        "address": "No.90, Park Road, Opp. Star Theatre, Erode - 638 003",
+        "contact": "Mr. Chand",
+        "phone": "95856 52067 91598 24642",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0736419,
+          10.9618843
+        ]
+      },
+      "properties": {
+        "name": "Karur Delivery Centre",
+        "cityLabel": "Karur",
+        "address": "No. 3, Annanagar, 5th Cross, Nr. K.C.P. House, Karur - 639 002",
+        "contact": "Mr. N. Mohamad",
+        "phone": "95979 94994 97897 55383",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0809377,
+          9.9427787
+        ]
+      },
+      "properties": {
+        "name": "Madurai Delivery Centre",
+        "cityLabel": "Madurai",
+        "address": "No. 27/B, Behind MK Complex, Melakkal Main Road, Kochdai, Madurai - 625 016",
+        "contact": "Mr. Rizwan",
+        "phone": "(0452) 405 8678 95855 48678 / 95855 48674",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.433339,
+          8.1875346
+        ]
+      },
+      "properties": {
+        "name": "Nagercoil Delivery Centre",
+        "cityLabel": "Nagercoil",
+        "address": "285, Nagaraja Kovil Cross Road, Nagercoil - 629001",
+        "contact": "Mr. G. Paulpandi",
+        "phone": "82482 36229",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7936002,
+          11.967594
+        ]
+      },
+      "properties": {
+        "name": "Pondicherry Delivery Centre",
+        "cityLabel": "Pondicherry",
+        "address": "R.S. 59/ 4A Plot No.18 & 20A, Mahavishnu Nagar, Pattanur, Auroville Post. Pondicherry -605 101",
+        "contact": "Mr. Ashokan",
+        "phone": "(0413) 427 2721 87540 86150 / 94439 58580 8754045957",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1459362,
+          11.642294
+        ]
+      },
+      "properties": {
+        "name": "Salem Delivery Centre",
+        "cityLabel": "Salem",
+        "address": "No 81, Periyanan Chettiyar Compound, Sankari Main Road, Nethimedu Salem - 636 002",
+        "contact": "Mr. Samad Khan",
+        "phone": "73390 86341 97897 55383 / 95979 94994",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6941592,
+          8.7313906
+        ]
+      },
+      "properties": {
+        "name": "Tirunelveli Delivery Centre",
+        "cityLabel": "Tirunelveli",
+        "address": "Door No. 34/A, Vathal Market, Nainarkulam Road, Tirunelveli Town, Tirunelveli - 627 006.",
+        "contact": "Mr.Uaikattan (Raj)",
+        "phone": "90257 01901",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3373817,
+          11.1150699
+        ]
+      },
+      "properties": {
+        "name": "Tirupur Delivery Centre",
+        "cityLabel": "Tirupur",
+        "address": "No. 11/6, Ram Nagar, 4th Street, Tirupur - 641 602.",
+        "contact": "Mr. Noor",
+        "phone": "91599 10076 88700 57355 / 97157 83906",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7046725,
+          10.7904833
+        ]
+      },
+      "properties": {
+        "name": "Trichy Delivery Centre",
+        "cityLabel": "Trichy",
+        "address": "74, Boologanathan Swamy Kovil Street, East Bouleward Road, Trichy - 620 008",
+        "contact": "Mr. Ganeshan",
+        "phone": "(0431) 271 4374 94425 46491",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1286159,
+          12.9267526
+        ]
+      },
+      "properties": {
+        "name": "Vellore Delivery Centre",
+        "cityLabel": "Vellore",
+        "address": "No. 10/3, Old Bypass Road, VVD Complex, Thotta Palayam, Vellore - 632 004",
+        "contact": "Mr. Afroz",
+        "phone": "78260 45280 80985 12962",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5013352,
+          9.1748422
+        ]
+      },
+      "properties": {
+        "name": "Alleppey Delivery Centre",
+        "cityLabel": "Alleppey",
+        "address": "II/636, Near Kottukulanghara Masjid, Kayamkulam - 690 502",
+        "contact": "Mr. Leo Thomas",
+        "phone": "(0479) 208 1510 94470 02641 / 94477 04010 90619 34010",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7920249,
+          11.2423088
+        ]
+      },
+      "properties": {
+        "name": "Calicut Delivery Centre",
+        "cityLabel": "Calicut",
+        "address": "Paraserry Building, Chalapuram Road, Puthiyapalam, Calicut - 673 002.",
+        "contact": "Mr. Usman",
+        "phone": "(0495) 270 1026 98957 63608",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5402167,
+          9.4464941
+        ]
+      },
+      "properties": {
+        "name": "Changanacherry Delivery Centre",
+        "cityLabel": "Changanacherry",
+        "address": "XXV/926, Puthuparmbil Building, Puthoorpally Rd, Changanacherry - 686 102",
+        "contact": "Mr. Nizar",
+        "phone": "94471 44360",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3124753,
+          10.0260688
+        ]
+      },
+      "properties": {
+        "name": "Edappally Delivery Centre",
+        "cityLabel": "Edappally",
+        "address": "37/703A, Bldg No.50/2305A, Old Station Road, Edappally - Kochi - 682 024.",
+        "contact": "Mr. Veenu",
+        "phone": "(0484) 485 1183 / 486 5930 98957 63606",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2762983,
+          9.9840505
+        ]
+      },
+      "properties": {
+        "name": "Ernakulam Delivery Centre",
+        "cityLabel": "Ernakulam",
+        "address": "40/5933, Basin Road, Cochin - 682 031",
+        "contact": "Mr. Veenu",
+        "phone": "(0484) 485 1183 / 486 5930 98957 63606",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.361961,
+          11.8737065
+        ]
+      },
+      "properties": {
+        "name": "Kannur Delivery Centre",
+        "cityLabel": "Kannur",
+        "address": "CC/293, Thalikkavu Road, Kannur - 670 001.",
+        "contact": "Mr. Kuttan",
+        "phone": "(0497) 270 1876 / 270 7948 98953 40420",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6228227,
+          8.9041751
+        ]
+      },
+      "properties": {
+        "name": "Kollam Delivery Centre",
+        "cityLabel": "Kollam",
+        "address": "30/566, Kallinghal Properties, Kallumthazham P.O., Ayathil, Kollam - 691 004",
+        "contact": "Mr. Haris Chandran",
+        "phone": "(0474) 208 1641 94470 02641 / 94477 04010",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9917634,
+          10.9989697
+        ]
+      },
+      "properties": {
+        "name": "Kottakal Delivery Centre",
+        "cityLabel": "Kottakal",
+        "address": "Post Office Road, Mallapuram District, Kottakal - 676 503",
+        "contact": "Mr. K. P. Mustafa / Mohamed",
+        "phone": "(0483) 277 7038 98461 50229 / 94477 96214",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5243668,
+          9.5868635
+        ]
+      },
+      "properties": {
+        "name": "Kottayam Delivery Centre",
+        "cityLabel": "Kottayam",
+        "address": "X111/913 Vadakkedam Building, M. L. Road, Kottayam - 686 001.",
+        "contact": "Mr. Nizar",
+        "phone": "(0481) 230 4582 94471 44360",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0696658,
+          10.6554488
+        ]
+      },
+      "properties": {
+        "name": "Kunnamkulam Delivery Centre",
+        "cityLabel": "Kunnamkulam",
+        "address": "10/145, Parampedam, Calicut Road, Near Chreu & Co., Kunnamkulam - 680 503",
+        "contact": "Mr. Shivan",
+        "phone": "(04885) 221 551 94463 21551",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.116049,
+          11.1207182
+        ]
+      },
+      "properties": {
+        "name": "Manjeri Delivery Centre",
+        "cityLabel": "Manjeri",
+        "address": "49/29A, J.T.S. Road, Karuvambram, Manjeri - 676 123",
+        "contact": "Mr. K. P. Mustafa / Mohamed",
+        "phone": "(0483) 276 0443 / 276 0443 98461 50229 94973 17038",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6463948,
+          10.7711416
+        ]
+      },
+      "properties": {
+        "name": "Palakkad Delivery Centre",
+        "cityLabel": "Palakkad",
+        "address": "No. 25/632, 1 Gee Kay Building,Vithuni Road, Palakkad - 678 014",
+        "contact": "Mr. Vishamber",
+        "phone": "(0491) 250 1858 94474 19985",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2570217,
+          11.6629136
+        ]
+      },
+      "properties": {
+        "name": "Sultan Bathery Delivery Centre",
+        "cityLabel": "Sultan Bathery",
+        "address": "St. Marys College Junction, Pulpallay Road, Kottakunnu, Sultan Bathery - 673 592",
+        "contact": "Mr. Mustufa",
+        "phone": "98461 50229 98471 81358",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4890346,
+          11.7491424
+        ]
+      },
+      "properties": {
+        "name": "Tellicherry Delivery Centre",
+        "cityLabel": "Tellicherry",
+        "address": "Thayalangadi, Transport Lane, Customs Road, Tellicherry - 670 101.",
+        "contact": "Mr. Kuttan",
+        "phone": "(0490) 232 1541 98953 40420 / 79942 98510",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7153707,
+          9.897418
+        ]
+      },
+      "properties": {
+        "name": "Thodupuzha Delivery Centre",
+        "cityLabel": "Thodupuzha",
+        "address": "X/269, Near Head Post Office, Thodupuzha - 685 584",
+        "contact": "Mr. Nizar",
+        "phone": "83049 04360",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2073065,
+          10.5083604
+        ]
+      },
+      "properties": {
+        "name": "Thrissur Delivery Centre",
+        "cityLabel": "Thrissur",
+        "address": "Sawmill Road, P.O.Koorkanchery, Thrissur - 680 007.",
+        "contact": "Mr. Raj Gopal",
+        "phone": "(0487) 242 5875 93491 55506",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9180163,
+          10.9149075
+        ]
+      },
+      "properties": {
+        "name": "Tirur Delivery Centre",
+        "cityLabel": "Tirur",
+        "address": "27/152, P. T. Building, Behind SBI., Thazhe Palam, Tirur - 676 101.",
+        "contact": "Mr. Iqbal",
+        "phone": "96331 06162 94973 17038",
+        "color": "#1E90FF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9278093,
+          8.4919471
+        ]
+      },
+      "properties": {
+        "name": "Trivandrum Delivery Centre",
+        "cityLabel": "Trivandrum",
+        "address": "TC 88-540/1, Falcon Warehouse, Vallakadavu Puthen Road Junction, Vallakadavu, Trivandrum - 695 008",
+        "contact": "Mr. Mohammed Suhai",
+        "phone": "(0471) 250 4300 88481 11277 96334 31893",
+        "color": "#1E90FF"
+      }
+    }
+  ]
+}
