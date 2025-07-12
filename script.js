@@ -2,7 +2,7 @@ mapboxgl.accessToken = "pk.eyJ1IjoicnlhbnR1c2kiLCJhIjoiY21jejFnaWF3MGNzYTJrcXR0a
 
 const map = new mapboxgl.Map({
   container: "map",
-  style: "mapbox://styles/ryantusi/cmcz6q4i0007401s9g3j119oy", // Your custom style
+  style: "mapbox://styles/ryantusi/cmcz6q4i0007401s9g3j119oy", 
   center: [78.9629, 22.5937],
   zoom: 5,
 });
@@ -16,7 +16,6 @@ const directions = new MapboxDirections({
 
 map.addControl(directions, "top-left");
 
-// 🔄 Load GeoJSON from external file
 fetch("srd_locations.json")
   .then((response) => response.json())
   .then((geojson) => {
@@ -39,7 +38,6 @@ fetch("srd_locations.json")
         .setPopup(popup)
         .addTo(map);
 
-      // Add city label
       const label = document.createElement("div");
       label.className = "custom-label";
       label.textContent = feature.properties.cityLabel;
@@ -49,4 +47,21 @@ fetch("srd_locations.json")
         .setLngLat(feature.geometry.coordinates)
         .addTo(map);
     });
-  });
+});
+
+// Used in Excel
+function GEOCODE_ADDRESS(address) {
+  if (!address || typeof address !== 'string') return "";
+  
+  var apiKey = "AIzaSyBL-2FCINhI5aWTFWpTANlOGEa6flkLWus"; 
+  var response = UrlFetchApp.fetch("https://maps.googleapis.com/maps/api/geocode/json?address=" + encodeURIComponent(address) + "&key=" + apiKey);
+  var json = JSON.parse(response.getContentText());
+  
+  if (json.status === "OK" && json.results.length > 0) {
+    var lat = json.results[0].geometry.location.lat;
+    var lng = json.results[0].geometry.location.lng;
+    return lat + "," + lng;  
+  } else {
+    return "";
+  }
+}
