@@ -14,8 +14,6 @@ const directions = new MapboxDirections({
   controls: { inputs: true, instructions: true },
 });
 
-map.addControl(directions, "top-left");
-
 fetch("srd_locations.json")
   .then((response) => response.json())
   .then((geojson) => {
